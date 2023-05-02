@@ -1,0 +1,99 @@
+@tailwind components;
+
+.heading-font {
+    font-family: 'Inter', sans-serif;
+}
+
+@media screen and (max-width: 640px) {
+    .disappear {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 640px) {
+    .appear {
+        display: none;
+    }
+}
+
+@layer components {
+    .nav-item {
+        @apply text-neutral-900 hover:text-sky-600 text-xs dark:text-yellow-50 dark:hover:text-zinc-700;
+    }
+}
+
+.sidenav {
+  height: 100%;
+  position: fixed;
+  z-index: 1;
+  background: white;
+  overflow-x: hidden;
+  padding: 8px 0;
+  border-right: 1px solid #E6E6E6;
+  width: 300px;
+}
+
+.sidenav .links-container {
+    margin: 1px 15px;
+    padding-right: 25px;
+}
+
+.sidenav .links-container button {
+    font-weight: 700;
+    padding: 15px 20px;
+    text-align: left;
+    width: 100%;
+    text-transform: none;
+}
+
+.sidenav .nav-item {
+    width: 100%;
+    margin: 20px 15px;
+    display: block;
+}
+
+#logo {
+    padding: 40px;
+    cursor: pointer;
+}
+
+.sidenav button {
+    color: #2E2E2E;
+    font-size: 1.1em;
+}
+
+.sidenav button.btn-col-main {
+    color: #fff;
+}
+
+.sidenav button svg {
+    display: inline;
+    margin-right: 10px;
+    margin-top: -3px;
+
+    height: 1.3em;
+    width: 1.3em;
+}
+
+.profile-info {
+    text-align: right;
+    position: absolute;
+    right: 35px;
+}
+
+.profile-info h3 {
+    font-weight: 700;
+    color: #2E2E2E;
+    font-size: 1em;
+}
+
+.profile-info p {
+    color: #808080;
+    font-size: .8em;
+    line-height: 15px;
+}
+
+.heading-container {
+    height: 63px;
+    border-bottom: 1px solid #E6E6E6;
+}

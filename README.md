@@ -2,5 +2,6 @@
 submission for encode X mantle hackathon 
 
 ## links
-[medium publication]()
-[pdf file]()
+- [medium publication]()
+
+- [pdf file]()

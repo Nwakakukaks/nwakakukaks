@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/winnerazubuike" target="blank"><img src="https://img.shields.io/twitter/follow/winnerazubuike?logo=twitter&style=for-the-badge" alt="winnerazubuike" /></a> </p>
 
-- 🔭 I’m currently working on **[qikelink](https://qikelink.com/)**
+- 🔭 I’m currently working on **[qikelink.com](https://qikelink.com/)**
 
 - 🌱 I’m currently learning **What it takes to create unicorns**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **winnernwakaku123@gmail.com**
 
-- ⚡ Fun fact **404 error**
+- ⚡ Fun fact: **404 error**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

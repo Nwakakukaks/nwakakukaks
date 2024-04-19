@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Winner Emeka</h1>
+<h1 align="center">Hi 👋, I'm Winner Nwakaku</h1>
 <h3 align="center">An aspiring YC backed founder</h3>
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" />
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/winnerazubuike" target="blank"><img src="https://img.shields.io/twitter/follow/winnerazubuike?logo=twitter&style=for-the-badge" alt="winnerazubuike" /></a> </p>
 
-- 🔭 I’m currently working on **Qikelink.com**
+- 🔭 I’m currently working on **[qikelink](https://qikelink.com/)**
 
-- 🌱 I’m currently learning **What makes startups succeed**
+- 🌱 I’m currently learning **What it takes to create unicorns**
 
 - 👯 I’m looking to collaborate on **Startups, web3 projects, AI tools**
   

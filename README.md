@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Winner Emeka</h1>
-<h3 align="center">A fullstack developer in Nigeria</h3>
+<h3 align="center">An aspiring YC backed founder</h3>
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nwakakukaks&label=Profile%20views&color=0e75b6&style=flat" alt="nwakakukaks" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/winnerazubuike" target="blank"><img src="https://img.shields.io/twitter/follow/winnerazubuike?logo=twitter&style=for-the-badge" alt="winnerazubuike" /></a> </p>
 
-- 🔭 I’m currently working on **Indie startups**
+- 🔭 I’m currently working on **Qikelink.com**
 
 - 🌱 I’m currently learning **What makes startups succeed**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **winnernwakaku123@gmail.com**
 
-- ⚡ Fun fact **I sleep day and work nights**
+- ⚡ Fun fact **404 error**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

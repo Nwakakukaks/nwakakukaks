@@ -3,23 +3,23 @@
 > *"Success is not final, failure is not fatal: It is the courage to continue that counts."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=serialwinner&color=blueviolet)
-[![Twitter Follow](https://img.shields.io/twitter/follow/serialwinner?style=social)](https://twitter.com/@emekabuike)
+[![Twitter](https://img.shields.io/twitter/follow/serialwinner?style=social)](https://twitter.com/@emekabuike)
 [![Discord](https://img.shields.io/twitter/url?label=Discord&logo=discord&style=social&url=https%3A%2F%2Fdiscord.gg%2Fchukwuemeka0889)](https://discord.gg/chukwuemeka0889)
 
 ## 🚀 About Me
 
 Human who learned to code before speaking English. Not a metaphor. My parents claim my first word was "console.log" followed by uncontrollable crying when I encountered a syntax error. Passionate enough about coding that I regularly forget trivial matters like getting paid for my work - my bank account calls this a "design feature, not a bug."
 
-<pre style="background-color: #0D1117; color: #58A6FF; padding: 16px; border-radius: 6px; font-family: 'Courier New', monospace;">
-<span style="color: #FF7B72;">const</span> <span style="color: #79C0FF;">winnerNwakaku</span> <span style="color: #C9D1D9;">=</span> <span style="color: #C9D1D9;">{</span>
-  <span style="color: #7EE787;">name</span><span style="color: #C9D1D9;">:</span> <span style="color: #A5D6FF;">"Winner Nwakaku"</span><span style="color: #C9D1D9;">,</span>                                        
-  <span style="color: #7EE787;">proficiency</span><span style="color: #C9D1D9;">:</span> <span style="color: #C9D1D9;">[</span><span style="color: #A5D6FF;">"web dev"</span><span style="color: #C9D1D9;">,</span> <span style="color: #A5D6FF;">"mobile dev"</span><span style="color: #C9D1D9;">,</span> <span style="color: #A5D6FF;">"blockchain"</span><span style="color: #C9D1D9;">,</span> <span style="color: #A5D6FF;">"technical writing"</span><span style="color: #C9D1D9;">],</span>
-  <span style="color: #7EE787;">currentlyLearning</span><span style="color: #C9D1D9;">:</span> <span style="color: #A5D6FF;">"AI/ML"</span><span style="color: #C9D1D9;">,</span>   
-  <span style="color: #7EE787;">financialStrategy</span><span style="color: #C9D1D9;">:</span> <span style="color: #A5D6FF;">"Work for exposure and GitHub stars"</span><span style="color: #C9D1D9;">,</span>    
-  <span style="color: #7EE787;">firstLanguage</span><span style="color: #C9D1D9;">:</span> <span style="color: #A5D6FF;">"JavaScript (literally)"</span><span style="color: #C9D1D9;">,</span>                   
-  <span style="color: #7EE787;">caffeineToCodeRatio</span><span style="color: #C9D1D9;">:</span> <span style="color: #A5D6FF;">"Dangerously efficient"</span>           
-<span style="color: #C9D1D9;">};</span>
-</pre>
+```javascript
+const winnerNwakaku = {
+  name: "Serial Winner",                                        
+  proficiency: ["web dev", "mobile dev", "blockchain", "technical writing"],
+  currentlyLearning: "AI/ML",   
+  financialStrategy: "Work for exposure and GitHub stars",    
+  firstLanguage: "JavaScript (literally)",                   
+  caffeineToCodeRatio: "Dangerously efficient"           
+};
+```
 
 I would love to be on your team. Not because I need employment - I clearly have a thriving career working for free - but because together we could build something so groundbreaking that we'd both forget to invoice for it.
 
@@ -71,7 +71,7 @@ fewer ports = technological advancement. I compute deep respect for his
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwakakukaks&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🤫 The Winning Strategy
+## 🤫 Little Secret
 
 - 🏅 **7x Hackathon Winner**
   

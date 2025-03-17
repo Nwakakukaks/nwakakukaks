@@ -4,24 +4,22 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=serialwinner&color=blueviolet)
 [![Twitter Follow](https://img.shields.io/twitter/follow/serialwinner?style=social)](https://twitter.com/@emekabuike)
-[![Discord Follow](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white")](https://discord.gg/chukwuemeka0889)
+[![Discord](https://img.shields.io/twitter/url?label=Discord&logo=discord&style=social&url=https%3A%2F%2Fdiscord.gg%2Fchukwuemeka0889)](https://discord.gg/chukwuemeka0889)
 
 ## 🚀 About Me
 
 Human who learned to code before speaking English. Not a metaphor. My parents claim my first word was "console.log" followed by uncontrollable crying when I encountered a syntax error. Passionate enough about coding that I regularly forget trivial matters like getting paid for my work - my bank account calls this a "design feature, not a bug."
 
-
-```javascript
-const winnerNwakaku = {
-  name: "Winner Nwakaku",                                        
-  proficiency: ["web dev", "mobile dev", "blockchain", "technical writing"],
-  currentlyLearning: "AI/ML",   
-  financialStrategy: "Work for exposure and GitHub stars",    
-  firstLanguage: "JavaScript (literally)",                   
-  caffeineToCodeRatio: "Dangerously efficient"           
-};
-```
-
+<pre style="background-color: #0D1117; color: #58A6FF; padding: 16px; border-radius: 6px; font-family: 'Courier New', monospace;">
+<span style="color: #FF7B72;">const</span> <span style="color: #79C0FF;">winnerNwakaku</span> <span style="color: #C9D1D9;">=</span> <span style="color: #C9D1D9;">{</span>
+  <span style="color: #7EE787;">name</span><span style="color: #C9D1D9;">:</span> <span style="color: #A5D6FF;">"Winner Nwakaku"</span><span style="color: #C9D1D9;">,</span>                                        
+  <span style="color: #7EE787;">proficiency</span><span style="color: #C9D1D9;">:</span> <span style="color: #C9D1D9;">[</span><span style="color: #A5D6FF;">"web dev"</span><span style="color: #C9D1D9;">,</span> <span style="color: #A5D6FF;">"mobile dev"</span><span style="color: #C9D1D9;">,</span> <span style="color: #A5D6FF;">"blockchain"</span><span style="color: #C9D1D9;">,</span> <span style="color: #A5D6FF;">"technical writing"</span><span style="color: #C9D1D9;">],</span>
+  <span style="color: #7EE787;">currentlyLearning</span><span style="color: #C9D1D9;">:</span> <span style="color: #A5D6FF;">"AI/ML"</span><span style="color: #C9D1D9;">,</span>   
+  <span style="color: #7EE787;">financialStrategy</span><span style="color: #C9D1D9;">:</span> <span style="color: #A5D6FF;">"Work for exposure and GitHub stars"</span><span style="color: #C9D1D9;">,</span>    
+  <span style="color: #7EE787;">firstLanguage</span><span style="color: #C9D1D9;">:</span> <span style="color: #A5D6FF;">"JavaScript (literally)"</span><span style="color: #C9D1D9;">,</span>                   
+  <span style="color: #7EE787;">caffeineToCodeRatio</span><span style="color: #C9D1D9;">:</span> <span style="color: #A5D6FF;">"Dangerously efficient"</span>           
+<span style="color: #C9D1D9;">};</span>
+</pre>
 
 I would love to be on your team. Not because I need employment - I clearly have a thriving career working for free - but because together we could build something so groundbreaking that we'd both forget to invoice for it.
 
@@ -38,16 +36,15 @@ I would love to be on your team. Not because I need employment - I clearly have 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 
-
 ## 🌟 Mentors.exe [EXECUTING...]
 
-```
-> INITIALIZING_HERO_WORSHIP.bat
-> PROCESSING_MENTORS...
-> HUMOR_MODULE: ACTIVATED
-> OUTPUT_MODE: DRY_SARCASM
+<pre style="background-color: #0D1117; color: #7EE787; padding: 16px; border-radius: 6px; font-family: 'Courier New', monospace;">
+<span style="color: #58A6FF;">&gt; INITIALIZING_HERO_WORSHIP.bat</span>
+<span style="color: #58A6FF;">&gt; PROCESSING_MENTORS...</span>
+<span style="color: #58A6FF;">&gt; HUMOR_MODULE: ACTIVATED</span>
+<span style="color: #58A6FF;">&gt; OUTPUT_MODE: DRY_SARCASM</span>
 
-[MENTOR_01: ELON_MUSK]
+<span style="color: #FF7B72;">[MENTOR_01: ELON_MUSK]</span>
 Human specimen who convinced earthlings to drive batteries and aims to 
 colonize red rock in sky. Created PayPal to fund escape plan from this 
 planet. Subject exhibits behavior of attempting impossible.exe and 
@@ -55,18 +52,18 @@ frequently crashes Twitter servers. I admire his ability to CTRL+ALT+DEL
 conventional wisdom and his talent for burning investor.cash while still 
 receiving standing_ovation.mp3.
 
-[MENTOR_02: STEVE_JOBS]
+<span style="color: #FF7B72;">[MENTOR_02: STEVE_JOBS]</span>
 Bipedal lifeform who created shiny rectangle that humans cannot function 
 without. Wore same clothing daily to save RAM for product decisions. 
 Perfected RDF.sys (Reality Distortion Field) to convince humans that 
 fewer ports = technological advancement. I compute deep respect for his 
 "simplicity.app" philosophy and his programming skill: if(product != perfect) 
 { reject(); yell(); repeat(); }
-```
 
-> MENTOR_ANALYSIS_COMPLETE
-> ADMIRATION_LEVELS: MAXIMUM
-> END_OF_LINE
+<span style="color: #58A6FF;">&gt; MENTOR_ANALYSIS_COMPLETE</span>
+<span style="color: #58A6FF;">&gt; ADMIRATION_LEVELS: MAXIMUM</span>
+<span style="color: #58A6FF;">&gt; END_OF_LINE</span>
+</pre>
 
 ## 📊 GitHub Stats
 
@@ -74,16 +71,25 @@ fewer ports = technological advancement. I compute deep respect for his
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwakakukaks&theme=radical" alt="GitHub Streak" />
 </p>
 
-
-
-## 🏆 Dark Maga
+## 🤫 The Winning Strategy
 
 - 🏅 **7x Hackathon Winner**
   
   *Yes, I've won 7+ hackathons. Not because I'm good, but because my competitors usually forget to submit their projects on time. My secret? Energy drinks and the fear of mediocrity.*
 
+## 🧪 Laboratory
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwakakukaks&theme=radical&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/@emekabuike"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://discord.gg/chukwuemeka0889"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
 ---
 
 <!--
-Fun fact: This README took more time to create than some of my hackathon projects.
+Fun fact: This README took more time to create than some of my hackathon projects. But at least it doesn't have any runtime errors... yet.
 -->

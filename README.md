@@ -10,18 +10,18 @@
 
 Winner Nwakaku: human who learned to code before speaking English. Not a metaphor. My parents claim my first word was "console.log" followed by uncontrollable crying when I encountered a syntax error. Passionate enough about coding that I regularly forget trivial matters like getting paid for my work - my bank account calls this a "design feature, not a bug."
 
-```javascript
-const winnerNwakaku = {
-  realName: "Winner Nwakaku",                                 // The debugger found this to be true
-  focus: ["AI", "Frontend", "Blockchain", "Technical writing"],// Equally obsessed with all four
-  currentlyLearning: "Advanced LLM Architectures",            // Teaching GPT-5 how to make coffee
-  askMeAbout: ["web dev", "mobile dev", "blockchain", "technical docs"],
-  funFact: "I debug code in my sleep",                        // Literally talks in JSON
-  financialStrategy: "Work for exposure and GitHub stars",    // Currency of the future
-  firstLanguage: "JavaScript (literally)",                    // Doctor's first words: "It's a programmer!"
-  caffeineToCodeRatio: "Dangerously efficient"                // Blood type: Cold Brew+
-};
-```
+<pre style="background-color: #282a36; color: #f8f8f2; padding: 15px; border-radius: 10px; font-family: 'Courier New', monospace;">
+<span style="color: #ff79c6;">const</span> <span style="color: #50fa7b;">winnerNwakaku</span> <span style="color: #f8f8f2;">=</span> <span style="color: #f8f8f2;">{</span>
+  <span style="color: #8be9fd;">realName</span><span style="color: #f8f8f2;">:</span> <span style="color: #f1fa8c;">"Winner Nwakaku"</span><span style="color: #f8f8f2;">,</span>                                 <span style="color: #6272a4;">// The debugger found this to be true</span>
+  <span style="color: #8be9fd;">focus</span><span style="color: #f8f8f2;">:</span> <span style="color: #f8f8f2;">[</span><span style="color: #f1fa8c;">"AI"</span><span style="color: #f8f8f2;">,</span> <span style="color: #f1fa8c;">"Frontend"</span><span style="color: #f8f8f2;">,</span> <span style="color: #f1fa8c;">"Blockchain"</span><span style="color: #f8f8f2;">,</span> <span style="color: #f1fa8c;">"Technical writing"</span><span style="color: #f8f8f2;">],</span> <span style="color: #6272a4;">// Equally obsessed with all four</span>
+  <span style="color: #8be9fd;">currentlyLearning</span><span style="color: #f8f8f2;">:</span> <span style="color: #f1fa8c;">"Advanced LLM Architectures"</span><span style="color: #f8f8f2;">,</span>            <span style="color: #6272a4;">// Teaching GPT-5 how to make coffee</span>
+  <span style="color: #8be9fd;">askMeAbout</span><span style="color: #f8f8f2;">:</span> <span style="color: #f8f8f2;">[</span><span style="color: #f1fa8c;">"web dev"</span><span style="color: #f8f8f2;">,</span> <span style="color: #f1fa8c;">"mobile dev"</span><span style="color: #f8f8f2;">,</span> <span style="color: #f1fa8c;">"blockchain"</span><span style="color: #f8f8f2;">,</span> <span style="color: #f1fa8c;">"documentations"</span><span style="color: #f8f8f2;">],</span>
+  <span style="color: #8be9fd;">funFact</span><span style="color: #f8f8f2;">:</span> <span style="color: #f1fa8c;">"I debug code in my sleep"</span><span style="color: #f8f8f2;">,</span>                        <span style="color: #6272a4;">// Literally talks in JSON</span>
+  <span style="color: #8be9fd;">financialStrategy</span><span style="color: #f8f8f2;">:</span> <span style="color: #f1fa8c;">"Work for exposure and GitHub stars"</span><span style="color: #f8f8f2;">,</span>    <span style="color: #6272a4;">// Currency of the future</span>
+  <span style="color: #8be9fd;">firstLanguage</span><span style="color: #f8f8f2;">:</span> <span style="color: #f1fa8c;">"JavaScript (literally)"</span><span style="color: #f8f8f2;">,</span>                    <span style="color: #6272a4;">// Doctor's first words: "It's a programmer!"</span>
+  <span style="color: #8be9fd;">caffeineToCodeRatio</span><span style="color: #f8f8f2;">:</span> <span style="color: #f1fa8c;">"Dangerously efficient"</span>                <span style="color: #6272a4;">// Blood type: Cold Brew+</span>
+<span style="color: #f8f8f2;">};</span>
+</pre>
 
 I would love to be on your team. Not because I need employment - I clearly have a thriving career in working for free - but because together we could build something so groundbreaking that we'd both forget to invoice for it.
 
@@ -82,7 +82,7 @@ fewer ports = technological advancement. I compute deep respect for his
 
 ## 🏆 Dark Maga
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serialwinner&theme=radical&hide=html" />
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwakakukaks&theme=radical&hide=html" />
 
 - 🏅 **7x Hackathon Winner**
   

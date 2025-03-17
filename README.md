@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Winner Nwakaku: human who learned to code before speaking English. Not a metaphor. My parents claim my first word was "console.log" followed by uncontrollable crying when I encountered a syntax error. Passionate enough about coding that I regularly forget trivial matters like getting paid for my work - my bank account calls this a "design feature, not a bug."
+Human who learned to code before speaking English. Not a metaphor. My parents claim my first word was "console.log" followed by uncontrollable crying when I encountered a syntax error. Passionate enough about coding that I regularly forget trivial matters like getting paid for my work - my bank account calls this a "design feature, not a bug."
 
 
 ```javascript
@@ -23,7 +23,7 @@ const winnerNwakaku = {
 ```
 
 
-I would love to be on your team. Not because I need employment - I clearly have a thriving career in working for free - but because together we could build something so groundbreaking that we'd both forget to invoice for it.
+I would love to be on your team. Not because I need employment - I clearly have a thriving career working for free - but because together we could build something so groundbreaking that we'd both forget to invoice for it.
 
 ## 💻 Tech Stack
 
@@ -71,10 +71,6 @@ fewer ports = technological advancement. I compute deep respect for his
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nwakakukaks&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nwakakukaks&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -85,13 +81,6 @@ fewer ports = technological advancement. I compute deep respect for his
 - 🏅 **7x Hackathon Winner**
   
   *Yes, I've won 7+ hackathons. Not because I'm good, but because my competitors usually forget to submit their projects on time. My secret? Energy drinks and the fear of mediocrity.*
-
-
-## 💭 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
 
 ---
 

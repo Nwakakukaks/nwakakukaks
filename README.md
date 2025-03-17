@@ -42,33 +42,33 @@ const me = {
 
 
 
-## 🌟 Mentors.exe [EXECUTING...]
+## 🌟 MentorFile.exe [EXECUTING...]
 
-```ansi
-[36m> INITIALIZING_HERO_WORSHIP.bat[0m
-[36m> PROCESSING_MENTORS...[0m
-[36m> HUMOR_MODULE: ACTIVATED[0m
-[36m> OUTPUT_MODE: DRY_SARCASM[0m
+```
+$ INITIALIZING_HERO_WORSHIP.bat
+$ PROCESSING_MENTORS...
+$ HUMOR_MODULE: ACTIVATED
+$ OUTPUT_MODE: DRY_SARCASM
 
-[31m[MENTOR_01: ELON_MUSK][0m
-[32mHuman specimen who convinced earthlings to drive batteries and aims to [0m
-[32mcolonize red rock in sky. Created PayPal to fund escape plan from this [0m
-[32mplanet. Subject exhibits behavior of attempting impossible.exe and [0m
-[32mfrequently crashes Twitter servers. I admire his ability to CTRL+ALT+DEL [0m
-[32mconventional wisdom and his talent for burning investor.cash while still [0m
-[32mreceiving standing_ovation.mp3.[0m
+#=== [MENTOR_01: ELON_MUSK] ===#
+Human specimen who convinced earthlings to drive batteries and aims to 
+colonize red rock in sky. Created PayPal to fund escape plan from this 
+planet. Subject exhibits behavior of attempting impossible.exe and 
+frequently crashes Twitter servers. I admire his ability to CTRL+ALT+DEL 
+conventional wisdom and his talent for burning investor.cash while still 
+receiving standing_ovation.mp3.
 
-[31m[MENTOR_02: STEVE_JOBS][0m
-[32mBipedal lifeform who created shiny rectangle that humans cannot function [0m
-[32mwithout. Wore same clothing daily to save RAM for product decisions. [0m
-[32mPerfected RDF.sys (Reality Distortion Field) to convince humans that [0m
-[32mfewer ports = technological advancement. I compute deep respect for his [0m
-[32m"simplicity.app" philosophy and his programming skill: if(product != perfect) [0m
-[32m{ reject(); yell(); repeat(); }[0m
+#=== [MENTOR_02: STEVE_JOBS] ===#
+Bipedal lifeform who created shiny rectangle that humans cannot function 
+without. Wore same clothing daily to save RAM for product decisions. 
+Perfected RDF.sys (Reality Distortion Field) to convince humans that 
+fewer ports = technological advancement. I compute deep respect for his 
+"simplicity.app" philosophy and his programming skill: if(product != perfect) 
+{ reject(); yell(); repeat(); }
 
-[36m> MENTOR_ANALYSIS_COMPLETE[0m
-[36m> ADMIRATION_LEVELS: MAXIMUM[0m
-[36m> END_OF_LINE[0m
+$ MENTOR_ANALYSIS_COMPLETE
+$ ADMIRATION_LEVELS: MAXIMUM
+$ END_OF_LINE
 ```
 
 

@@ -10,7 +10,7 @@
 
 ## 🧬 git commit -m "created_myself.js"
 
-🤖 Human who learned to code before speaking English. Not a metaphor. My parents claim my first word was "console.log" followed by uncontrollable crying when I encountered a syntax error. Passionate enough about coding that I regularly forget trivial matters like getting paid for my work 💸 - my bank account calls this a "design feature, not a bug." ⚠️
+Learnt to code before speaking english. Not a metaphor, my parents claim my first word was "console.log" followed by uncontrollable crying when I encountered a syntax error. Passionate enough about coding that I regularly forget trivial matters like getting paid for my work 💸 - my bank account calls this a "design feature, not a bug." ⚠️
 
 ```javascript
 const me = {

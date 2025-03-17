@@ -6,22 +6,22 @@
 [![Twitter](https://img.shields.io/twitter/follow/serialwinner?style=social)](https://twitter.com/@emekabuike)
 [![Discord](https://img.shields.io/twitter/url?label=Discord&logo=discord&style=social&url=https%3A%2F%2Fdiscord.gg%2Fchukwuemeka0889)](https://discord.gg/chukwuemeka0889)
 
-## 🚀 About Me
+## 🧬 git commit -m "created_myself.js"
 
-Human who learned to code before speaking English. Not a metaphor. My parents claim my first word was "console.log" followed by uncontrollable crying when I encountered a syntax error. Passionate enough about coding that I regularly forget trivial matters like getting paid for my work - my bank account calls this a "design feature, not a bug."
+🤖 Human who learned to code before speaking English. Not a metaphor. My parents claim my first word was "console.log" followed by uncontrollable crying when I encountered a syntax error. Passionate enough about coding that I regularly forget trivial matters like getting paid for my work 💸 - my bank account calls this a "design feature, not a bug." ⚠️
 
 ```javascript
-const winnerNwakaku = {
+const me = {
   name: "Serial Winner",                                        
-  proficiency: ["web dev", "mobile dev", "blockchain", "technical writing"],
-  currentlyLearning: "AI/ML",   
+  proficiency: ["frontend", "web3", "technical writing", "Dev Relations"],
+  currentlyLearning: "AI",   
   financialStrategy: "Work for exposure and GitHub stars",    
   firstLanguage: "JavaScript (literally)",                   
   caffeineToCodeRatio: "Dangerously efficient"           
 };
 ```
 
-I would love to be on your team. Not because I need employment - I clearly have a thriving career working for free - but because together we could build something so groundbreaking that we'd both forget to invoice for it.
+🤝 I would love to be on your team. Not because I need employment - I clearly have a thriving career working for free - but because together we could build something so groundbreaking that we'd both forget to invoice for it. 
 
 ## 💻 Tech Stack
 
@@ -77,15 +77,10 @@ fewer ports = technological advancement. I compute deep respect for his
   
   *Yes, I've won 7+ hackathons. Not because I'm good, but because my competitors usually forget to submit their projects on time. My secret? Energy drinks and the fear of mediocrity.*
 
-## 🧪 Laboratory
+## 🧪 My Cooking Tools
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nwakakukaks&theme=radical&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/@emekabuike"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  <a href="https://discord.gg/chukwuemeka0889"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---

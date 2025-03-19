@@ -89,9 +89,9 @@ $ END_OF_LINE
 
 ## 🤫 Little Secret
 
-- 🏅 **10x Hackathon Winner**
+- 🏅 **7x Hackathon Winner**
   
-  *Yes, I've won 10+ hackathons. Not because I'm good, but because my competitors usually forget to submit their projects on time. My secret? Energy drinks and the fear of mediocrity.*
+  *Yes, I've won 7+ hackathons. Not because I'm good, but because my competitors usually forget to submit their projects on time. My secret? Energy drinks and the fear of mediocrity.*
 
 <!--
 Fun fact: This README took more time to create than some of my hackathon projects. But at least it doesn't have any runtime errors... yet.

@@ -8,23 +8,20 @@
 
 
 
-## 🧬 git commit -m "created_myself.js"
-
-Learnt to code before speaking english. Not a metaphor, my parents claim my first word was "console.log" followed by uncontrollable crying when I encountered a syntax error. Passionate enough about coding that I regularly forget trivial matters like getting paid for my work 💸 - my bank account calls this a "design feature, not a bug." ⚠️
+## 🧬 About me
+Dedicated developer with early exposure to programming fundamentals. My passion for coding has driven my career choices and technical development path. I prioritize project quality and innovation, sometimes at the expense of commercial considerations.
 
 ```javascript
 const me = {
   name: "Serial Winner",                                        
   proficiency: ["frontend", "web3", "technical writing"],
   currentlyLearning: "AI",   
-  financialStrategy: "Work for exposure and gitHub stars",    
-  firstLanguage: "JavaScript (literally)",                   
-  caffeineToCodeRatio: "Dangerously efficient"           
+  focus: "Value creation and technical excellence",    
+  expertise: "JavaScript and related technologies",                   
+  workEthic: "Highly efficient"           
 };
 ```
-
-🤝 I would love to be on your team. Not because I need employment - I clearly have a thriving career working for free - but because together we could build something so groundbreaking that we'd both forget to invoice for it. 
-
+I'm interested in joining your team to collaborate on innovative solutions. I believe our combined expertise could result in groundbreaking projects with significant impact in the field.
 
 
 ## 💻 Tech Stack
@@ -86,12 +83,10 @@ $ END_OF_LINE
 </table>
 
 
-
-## 🤫 Little Secret
-
-- 🏅 **9x Hackathon Winner**
+## 🏆 Cool Stuff I've Done
+- **Won 9+ Hackathons**
   
-  *Yes, I've won 9+ hackathons. Not because I'm good, but because my competitors usually forget to submit their projects on time. My secret? Energy drinks and the fear of mediocrity.*
+  *I've won a bunch of coding competitions where you have to build something in a short time. I'm good at focusing and finishing projects when there's a deadline.*
 
 <!--
 Fun fact: This README took more time to create than some of my hackathon projects. But at least it doesn't have any runtime errors... yet.

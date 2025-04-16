@@ -7,22 +7,21 @@
 [![Discord](https://img.shields.io/twitter/url?label=Discord&logo=discord&style=social&url=https%3A%2F%2Fdiscord.gg%2Fchukwuemeka0889)](https://discord.gg/chukwuemeka0889)
 
 
-
-## 🧬 About me
-Dedicated developer with early exposure to programming fundamentals. My passion for coding has driven my career choices and technical development path. I prioritize project quality and innovation, sometimes at the expense of commercial considerations.
+## 🧬 About Me
+I'm a full stack Web3 developer passionate about building the future of decentralized applications. With expertise spanning both frontend and blockchain technologies, I create seamless user experiences that connect to powerful smart contracts. I bring ideas from concept to deployment and love solving complex problems with elegant solutions.
 
 ```javascript
-const me = {
-  name: "Serial Winner",                                        
-  proficiency: ["frontend", "web3", "technical writing"],
-  currentlyLearning: "AI",   
-  focus: "Value creation and technical excellence",    
-  expertise: "JavaScript and related technologies",                   
-  workEthic: "Highly efficient"           
+const developer = {
+  title: "Full Stack Web3 Developer",
+  skills: ["Solidity", "React", "JavaScript/TypeScript", "Move"],
+  experience: "3+ years building dApps",
+  interests: ["DeFi", "AI", "DAOs", "Infra tech"],
+  strengths: "Bridging technical complexity with user-friendly interfaces",
+  approach: "Building with scalability and security in mind"
 };
 ```
-I'm interested in joining your team to collaborate on innovative solutions. I believe our combined expertise could result in groundbreaking projects with significant impact in the field.
 
+I'm looking to collaborate with forward-thinking teams on projects that push Web3 technology forward. Whether it's creating innovative DeFi solutions or exploring the potential of blockchain in new domains, I bring technical expertise and creative problem-solving to every project.
 
 ## 💻 Tech Stack
 
